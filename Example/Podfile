@@ -1,0 +1,8 @@
+use_frameworks!
+
+platform :ios, '12.0'
+
+target 'CustomCurrencyTextField_Example' do
+  pod 'CustomCurrencyTextField', :path => '../'
+  pod 'ReactiveObjC'
+end

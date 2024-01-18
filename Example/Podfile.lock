@@ -1,0 +1,23 @@
+PODS:
+  - CustomCurrencyTextField (0.1.0)
+  - ReactiveObjC (3.1.1)
+
+DEPENDENCIES:
+  - CustomCurrencyTextField (from `../`)
+  - ReactiveObjC
+
+SPEC REPOS:
+  trunk:
+    - ReactiveObjC
+
+EXTERNAL SOURCES:
+  CustomCurrencyTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomCurrencyTextField: 58db3f6f07a63dcd8bab80c3afa321e0d365bf5a
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+
+PODFILE CHECKSUM: 2c5d32319fa2a14c6129b93e14bab70462878aa3
+
+COCOAPODS: 1.14.3
