@@ -1,15 +1,10 @@
 # CustomCurrencyTextField
 
-[![CI Status](https://img.shields.io/travis/hajc1294/CustomCurrencyTextField.svg?style=flat)](https://travis-ci.org/hajc1294/CustomCurrencyTextField)
-[![Version](https://img.shields.io/cocoapods/v/CustomCurrencyTextField.svg?style=flat)](https://cocoapods.org/pods/CustomCurrencyTextField)
-[![License](https://img.shields.io/cocoapods/l/CustomCurrencyTextField.svg?style=flat)](https://cocoapods.org/pods/CustomCurrencyTextField)
-[![Platform](https://img.shields.io/cocoapods/p/CustomCurrencyTextField.svg?style=flat)](https://cocoapods.org/pods/CustomCurrencyTextField)
+Helps to use single Text Field with currency format.
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
