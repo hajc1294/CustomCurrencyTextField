@@ -62,6 +62,8 @@ Finnaly, you have some functions that helps you to get some important data from 
 
 ## Demo
 
+<img src="https://github.com/hajc1294/CustomCurrencyTextField/assets/61942641/59287955-e1e5-4171-8720-d21db621ac7a" width="250">   <img src="https://github.com/hajc1294/CustomCurrencyTextField/assets/61942641/93e9269b-2fe3-480b-8328-7939cdf9c1ad" width="250">
+
 ## Author
 
 hajc1294, hajc1294@gmail.com
