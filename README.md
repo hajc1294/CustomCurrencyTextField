@@ -31,7 +31,7 @@ You can set some CustomCurrencyTextField's properties in yor Storyboard. You can
 
 ![Screenshot 2024-01-18 at 14 19 09](https://github.com/hajc1294/CustomCurrencyTextField/assets/61942641/2059ca37-b92e-4d1b-ae9c-5bc21a315111)
 
-You can combine this pod with others like **ReactiveObjC** to listen changes in the text field in real-time.
+You can combine this pod with others like **ReactiveObjC** to listen real-time changes in the text field.
 
 ```Objective-C
 #import "ReactiveObjC.h"
